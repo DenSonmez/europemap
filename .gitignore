@@ -27,4 +27,4 @@ dist-ssr
 # Secrets
 .env
 Traefik.md
-
+docker-compose.yml
